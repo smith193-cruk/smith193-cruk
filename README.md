@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm smith193-cruk, and here you'll find a collecti
 
 - 🔭 Currently working on exciting projects at CRUK.
 - 🌱 Always learning and exploring new technologies.
-- 💬 Ask me about anything related to software development and data science.
+- 💬 Ask me about anything related to automation and IaC.
 - 📫 How to reach me: [Email](mailto:paul.smith@cancer.org.uk) | [LinkedIn](https://www.linkedin.com/in/psmith282)
 
 ## My GitHub Stats
