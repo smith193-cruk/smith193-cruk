@@ -1,6 +1,6 @@
-# Hi there, I'm Smith! 👋
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm smith193-cruk, and here you'll find a collection of my projects, contributions, and interests. 
+Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests. 
 
 ## About Me
 
